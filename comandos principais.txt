@@ -1,0 +1,2 @@
+git config --global user.name " Lucas_e_Kaue"
+git config --global user.email"kaue.franca01@etec.sp.gov.br"
